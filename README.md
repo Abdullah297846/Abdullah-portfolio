@@ -1,5 +1,5 @@
 # Portfolio-Website-using-Flask-and-Python
-******Author: Rahul Sonti******
+******Author: Abdullah Nadeem******
 
 1. Create a virtual-environment so that it'll be easier for you when you finally build the website and you awant to deploy it.
 2. Install all the necessary libraries for your website. In my case, the libraries I used are: * Flask, * Gunicorn, * csv(just for my convenience), * datetime(just for my convenience)
