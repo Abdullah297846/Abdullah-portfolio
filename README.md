@@ -11,5 +11,4 @@
 8. Also, the images you see in static/images are mine, please replace them with yours, and deploy the application.
 9. Finally, after developing the flask app and testing your website on local IP, use "pip  freeze > requirements.txt" on your venv to see all the libraries installed and use the .txt file on any hosting platform to install from the file instead of manually installing each library.
 10. I used "Pythonanywhere" to host my website. There are other sources like AWS, Heroku, GCP, to host your Flask web-app.
-11. Check out my website at # https://rahulsonti.pythonanywhere.com/ .
 # PEACE OUT!!!
